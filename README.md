@@ -9,7 +9,7 @@ Acredito na eficiência e no pragmatismo, aplicando o princípio de não "reinve
 
 ## 🔗 Conecte-se comigo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[seu-usuario-linkedin]/)
-[![portfolio](https://img.shields.io/badge/meu_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([link-do-seu-futuro-portfolio-aqui])
+
 [![email](https.img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolealdms@gmail.com)
 
 ---
@@ -57,9 +57,7 @@ Acredito na eficiência e no pragmatismo, aplicando o princípio de não "reinve
 
 Para uma visão detalhada dos meus trabalhos, das tecnologias aplicadas e dos desafios que resolvi, convido você a visitar meu portfólio completo.
 
-<a href="[link-do-seu-futuro-portfolio-aqui]" target="_blank">
-  <img src="https://img.shields.io/badge/Acessar_Portfólio-black?style=for-the-badge&logo=vercel">
-</a>
+[![portfolio](https://img.shields.io/badge/meu_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([link-do-seu-futuro-portfolio-aqui])
 
 ---
 
