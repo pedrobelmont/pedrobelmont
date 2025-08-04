@@ -19,7 +19,7 @@ Acredito na eficiência e no pragmatismo, aplicando o princípio de não "reinve
 <p align="left">
   <strong>Linguagens:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js" />
+    <img src="https://skillicons.dev/icons?i=java,js,dart" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@ Acredito na eficiência e no pragmatismo, aplicando o princípio de não "reinve
 <p align="left">
   <strong>Back-End:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,supabase" />
   </a>
 </p>
 
@@ -65,7 +65,6 @@ Para uma visão detalhada dos meus trabalhos, das tecnologias aplicadas e dos de
 
 ## 📊 Minhas Estatísticas no GitHub
 <div align="center">
-  <a href="https://github.com/pedrobelmont">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobelmont&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobelmont&layout=compact&langs_count=7&theme=dracula"/>
 </div>
