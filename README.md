@@ -10,8 +10,6 @@ Acredito na eficiência e no pragmatismo, aplicando o princípio de não "reinve
 ## 🔗 Conecte-se comigo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[seu-usuario-linkedin]/)
 
-[![email](https.img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolealdms@gmail.com)
-
 ---
 
 ## 💻 Tecnologias e Ferramentas
