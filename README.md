@@ -65,6 +65,6 @@ Para uma visão detalhada dos meus trabalhos, das tecnologias aplicadas e dos de
 
 ## 📊 Minhas Estatísticas no GitHub
 <div align="center">
-   <img height="180em"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrobelmont&theme=default"/>
+   <img height="180em"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrobelmont&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobelmont&layout=compact&langs_count=7&theme=dracula"/>
 </div>
