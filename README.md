@@ -65,7 +65,7 @@ Para uma visão detalhada dos meus trabalhos, das tecnologias aplicadas e dos de
 
 ## 📊 Minhas Estatísticas no GitHub
 <div align="center">
-  <a href="https://github.com/[SEU_USUARIO_GITHUB]">
+  <a href="https://github.com/pedrobelmont">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobelmont&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobelmont&layout=compact&langs_count=7&theme=dracula"/>
 </div>
